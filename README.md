@@ -1,3 +1,3 @@
 # Hasher
 
-A hasher that hashes strings.
+A console application that hashes strings.
